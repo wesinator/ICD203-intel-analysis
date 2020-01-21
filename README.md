@@ -1,16 +1,24 @@
-# ICD 203 confidence levels
-"ICD 203" confidence levels for intelligence analysis, in consumable form for reference.
+# ICD 203 for Intelligence Analysis
+"ICD 203" degree of likelihood for intelligence analysis, in consumable form for reference.
 https://www.dni.gov/files/documents/ICD/ICD%20203%20Analytic%20Standards.pdf
+
+## Terms of Likelihood
+
+For expressions of likelihood or probability, an analytic product must use one of the following sets of terms:
 
 |  almost no chance   |  very unlikely   |  unlikely   |  roughly even chance   |  likely   |  very likely   |  almost certain(ly)   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  remote   |  highly improbable   |  improbable (improbably)   |  roughly even odds   |  probable (probably)   |  highly probable   |  nearly certain   |
 |  1 - 5 %   |  05 - 20 %   |  20 - 45 %   |  45 - 55 %   |  55 - 80 %   |  80 - 95 %   |  95 - 99 %   |
 
+Analysts are strongly encouraged not to mix terms from different rows. Products that do mix terms must include a disclaimer clearly noting the terms indicate the same assessment of probability.
+
+(b) To avoid confusion, products that express an analyst's confidence in an assessment or judgment using a "confidence level" (e.g., "high confidence") must not combine a confidence level and a degree of likelihood, which refers to an event or development, in the same sentence.
+
 #### Code/data reference implementation (JSONic)
 
 ```python
-icd203_levels = {
+icd203_likelihood = {
     "almost-no-chance": [1, 5],
     "very-unlikely": [5, 20],
     "unlikely": [20, 45],
