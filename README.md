@@ -1,6 +1,7 @@
 # ICD 203 for Intelligence Analysis
 "ICD 203" degree of likelihood for intelligence analysis, in consumable form for reference.
 https://www.dni.gov/files/documents/ICD/ICD%20203%20Analytic%20Standards.pdf
+https://fas.org/irp/dni/icd/icd-203.pdf (text version)
 
 ## Terms of Likelihood
 
