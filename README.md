@@ -4,12 +4,12 @@
 
 ## Terms of Likelihood
 
-For expressions of likelihood or probability, an analytic product must use one of the following sets of terms:
+(a) For expressions of likelihood or probability, an analytic product must use one ofthe following sets ofterms
 
 |  almost no chance   |  very unlikely   |  unlikely   |  roughly even chance   |  likely   |  very likely   |  almost certain(ly)   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  remote   |  highly improbable   |  improbable (improbably)   |  roughly even odds   |  probable (probably)   |  highly probable   |  nearly certain   |
-|  1 - 5 %   |  05 - 20 %   |  20 - 45 %   |  45 - 55 %   |  55 - 80 %   |  80 - 95 %   |  95 - 99 %   |
+|  01 - 05 %   |  05 - 20 %   |  20 - 45 %   |  45 - 55 %   |  55 - 80 %   |  80 - 95 %   |  95 - 99 %   |
 
 Analysts are strongly encouraged not to mix terms from different rows. Products that do mix terms must include a disclaimer clearly noting the terms indicate the same assessment of probability.
 
